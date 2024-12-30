@@ -1,3 +1,3 @@
-function skillMembers() {
-	// function body
+function skillsMember() {
+  // function body
 }
